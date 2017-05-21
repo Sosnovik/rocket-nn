@@ -101,6 +101,7 @@ ENV/
 # mypy
 .mypy_cache/
 
+.DS_Store
 
 # pictures
 /Seq/
